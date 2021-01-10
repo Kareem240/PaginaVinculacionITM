@@ -1172,6 +1172,16 @@ section {
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
+.carousel-inner img {
+  width: 100%;
+  max-height: 650px;
+}
+
+.carousel-inner{
+height: 650px;
+}
+
+
 .portfolio-details {
   padding-top: 30px;
 }
