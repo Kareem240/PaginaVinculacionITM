@@ -27,6 +27,17 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Roboto", sans-serif;
 }
 
+#tNoticia {
+  color: #761b30;
+}
+
+#tNoticia:hover {
+  color: #e3cb17;
+}
+
+#lMas:hover {
+  color: #e3cb17;
+}
 /*--------------------------------------------------------------
 # Preloader
 --------------------------------------------------------------*/
@@ -1179,6 +1190,10 @@ section {
 .portfolio-details .portfolio-details-container {
   position: relative;
 }
+
+
+
+
 
 .portfolio-details .portfolio-details-carousel {
   position: relative;
